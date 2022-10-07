@@ -30,7 +30,7 @@ repositories {
 
 dependencies {
 //	compile('org.mongodb:mongodb-driver-reactivestreams:4.1.1')
-	compile('org.springframework.boot:spring-boot-starter-data-mongodb')
+//	compile('org.springframework.boot:spring-boot-starter-data-mongodb')
 //	compile('org.springframework.boot:spring-boot-starter-thymeleaf')
 //	compile('org.springframework.boot:spring-boot-starter-web')
 	runtime('org.springframework.boot:spring-boot-devtools')
