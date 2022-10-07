@@ -1,0 +1,17 @@
+spring:
+sql:
+init:
+mode : always
+jpa:
+defer-datasource-initialization:  true
+mongodb:
+embedded:
+version : 4.0.21
+data:
+mongodb:
+port: 27017
+host: localhost
+logging:
+level:
+dev:
+sonnyjson: debug
