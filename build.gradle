@@ -33,7 +33,7 @@ dependencies {
 //	compile('org.springframework.boot:spring-boot-starter-data-mongodb')
 //	compile('org.springframework.boot:spring-boot-starter-thymeleaf')
 //	compile('org.springframework.boot:spring-boot-starter-web')
-	runtime('org.springframework.boot:spring-boot-devtools')
+	implementation('org.springframework.boot:spring-boot-devtools')
 	implementation 'org.webjars:bootstrap:3.3.7-1'
 	compileOnly 'org.projectlombok:lombok:1.18.24'
 //	annotationProcessor 'org.projectlombok:lombok:1.18.24'
