@@ -2,6 +2,7 @@ package guru.springframework.domain;
 
 import lombok.Getter;
 import lombok.Setter;
+import nonapi.io.github.classgraph.json.Id;
 
 
 /**
